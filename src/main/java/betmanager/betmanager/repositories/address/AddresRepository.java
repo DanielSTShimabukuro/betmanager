@@ -1,4 +1,4 @@
-package betmanager.betmanager.repositories.Adress;
+package betmanager.betmanager.repositories.address;
 
 import java.util.Optional;
 
